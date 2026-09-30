@@ -5,3 +5,4 @@ runs/{!baseline_relu_4800_steps}
 *.pt
 commands.txt
 GUIDE.md
+/data

@@ -26,3 +26,12 @@ python evaluate.py --checkpoint runs/baseline_relu_4800_steps/checkpoint.pt --sp
 # Freeze the final method before testing:
 python evaluate.py --checkpoint runs/baseline_relu_4800_steps/checkpoint.pt --split test --device cpu --precision fp32
 ```
+
+## AI Usage Declaration 
+
+AI was relied on heavily during the initial period of trying to understand the project’s structure. Copilot in VSCode (which I believe was GPT Luna) was used. 
+Later on, discussions were made between GPT 5.4 mini to find explanations for some of the results.
+
+## Lisencing
+
+Code is provided by course directors and there seems to include no lisencing uhh.

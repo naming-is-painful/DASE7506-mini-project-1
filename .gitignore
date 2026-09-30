@@ -1,8 +1,8 @@
 .venv/
 __pycache__/
 *.pyc
-runs/{!baseline_relu_4800_steps}
-*.pt
+runs/*
+!runs/baseline_relu_4800_steps
 commands.txt
 GUIDE.md
 /data

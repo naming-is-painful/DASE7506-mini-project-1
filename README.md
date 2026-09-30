@@ -4,7 +4,10 @@ This is the repository for mini project 1 of DASE 7506 of HKU.
 
 ## Environment Setup
 
+Using Python 3.12.
+
 ```shell
+python -m pip install torch==2.7.1 --index-url https://download.pytorch.org/whl/cu126
 python -m pip install -r requirements.txt
 python -m unittest discover -s tests -v
 ```

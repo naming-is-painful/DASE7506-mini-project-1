@@ -1,0 +1,19 @@
+{
+  "bpb": 1.743634855830103,
+  "token_ppl": 39.81433268745694,
+  "nll_nats": 1387476.1908819852,
+  "targets": 376599,
+  "utf8_bytes": 1148007,
+  "seconds": 1.6608859000261873,
+  "protocol": "7506-mp1-wt2-v2",
+  "split": "validation",
+  "precision": "fp32",
+  "checkpoint_sha256": "885964c8383afc72de6b87a1c351fd0a681fcf5d0d2060ca94339e86dbc2607e",
+  "implementation_sha256": "c79ce34890bb7564f4321df737cb3a87f245273284b8206e9c16b96618de2ee3",
+  "evaluator_sha256": "128bcb2dab0be0d427505bddb4671e3ab3a8f78e114be79a689c0f9029af133d",
+  "tokenizer_sha256": "020d1bc6aa4449c4f352b2e03d0e0fb4f39287f15297705e421b1fa7d817262e",
+  "device": "cuda:0",
+  "device_name": "NVIDIA GeForce RTX 3050 4GB Laptop GPU",
+  "peak_allocated_gb": 0.214363136,
+  "peak_reserved_gb": 0.299892736
+}
